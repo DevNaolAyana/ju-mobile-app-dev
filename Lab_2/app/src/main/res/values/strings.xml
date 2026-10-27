@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My First Lab App</string>
+    <string name="welcome_message">Welcome to Android Development, Naol from the Software Engineering Department!</string>
+</resources>
