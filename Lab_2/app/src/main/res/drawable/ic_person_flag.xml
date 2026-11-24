@@ -1,0 +1,41 @@
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- Person's head -->
+    <path
+        android:pathData="M17,13 A7,7 0,1 0,31 13 A7,7 0,1 0,17 13"
+        android:strokeColor="#999999"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000" />
+
+    <!-- Person's body -->
+    <path
+        android:pathData="M13,53 L13,38 C13,29 19,25 25,25 C31,25 36,29 36,38 L36,53 M25,26 L25,53"
+        android:strokeColor="#999999"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Raised arm -->
+    <path
+        android:pathData="M34,35 L42,25 L42,15"
+        android:strokeColor="#999999"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Flag -->
+    <path
+        android:pathData="M42,15 L55,12 L55,24 L42,22 Z"
+        android:strokeColor="#999999"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+</vector>
